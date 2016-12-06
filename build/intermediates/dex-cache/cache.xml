@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bb215d06800dbd51bbcf23b0cc23676a8959826d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c5babb613f4781686d1fa731abcdb5e887b163c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_0fb4b8160515a34fc39009d393759e5cd56336cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_fb6503520a431a1ed498616cb840602ee73caefe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5d2c56efb853de47a1cf49451375a06683bdbb0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_674129dc0616e1ddd057f912dad1d2c69521b7d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c9b08411c31e620eeddb89b00a56bf0ad7f5dbc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ef81e89bda8bfaaa3b240edc89755e7888469722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5a79a9847e4a94675e319fc85a9bc856931ca2b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_8df40a682829a8aee37958c57c315a028db619f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7df8b3fb93582f13fe0bb7fbe77d7275388a62b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7110419eccbc50233fb3d313af97a849f08555a0">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4e6b031b529ccb213fad497f0a8b466c15f34b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1ae05a26fa733beed3ed1426c81f068be806482a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a7409f94a8b7fb7a70f82dcc0d7c695637a3efc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_606421246d7a6f0c3b1b7d9dd64367f2c479c38c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2a1d9658c748a459c08c9d8acac3a9ac3ca5c703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9a4a6c475a4d24867078d62946346d67cd5345e9">
+        <dex dex="C:\Users\Jordan\Documents\GitHub\MultiPongWifiDirect\app\build\intermediates\pre-dexed\debug\instant-run_574d292c58529de01d4e7193cafb5dc2bbe79213.jar" />
+    </item>
+
+</items>

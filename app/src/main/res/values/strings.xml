@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multi Pong</string>
+    <string name="btnScan">Scan For Devices</string>
+    <string name="btnHost">Start Hosting</string>
+</resources>
